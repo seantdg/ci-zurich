@@ -14,3 +14,6 @@
  * limitations under the License.
 */
 context.setVariable('target.copy.pathsuffix', false);
+context.setVariable('author', 'florian');
+
+if(true) {
